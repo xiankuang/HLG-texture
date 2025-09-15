@@ -499,7 +499,7 @@
 	],
 	"gui_light": "front",
 	"overrides": [
-		{"predicate": {"blocking": 1}, "model": "tfc:item/metal/shield/bismuth_bronze_blocking"}
+		{"predicate": {"blocking": 1}, "model": "tfc:item/metal/shield/model/bismuth_bronze_blocking"}
 	],
 	"display": {
 		"thirdperson_righthand": {

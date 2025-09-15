@@ -990,7 +990,7 @@
 	],
 	"gui_light": "front",
 	"overrides": [
-		{"predicate": {"blocking": 1}, "model": "tfc:item/metal/shield/black_bronze_blocking"}
+		{"predicate": {"blocking": 1}, "model": "tfc:item/metal/shield/model/black_bronze_blocking"}
 	],
 	"display": {
 		"thirdperson_righthand": {

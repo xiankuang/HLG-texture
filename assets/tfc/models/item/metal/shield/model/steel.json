@@ -723,8 +723,12 @@
 	],
 	"gui_light": "front",
 	"overrides": [
-		{"predicate": {"blocking": 1}, "model": "tfc:item/metal/shield/steel_blocking"}
+	{
+		"model": "tfc:item/metal/shield/model/steel_blocking",
+		"predicate": {"blocking": 1}
+	 }
 	],
+	
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [-22.5, -80.25, -22.5],

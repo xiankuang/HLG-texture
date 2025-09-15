@@ -1492,7 +1492,7 @@
 	],
 	"gui_light": "front",
 	"overrides": [
-		{"predicate": {"blocking": 1}, "model": "tfc:item/metal/shield/red_steel_blocking"}
+		{"predicate": {"blocking": 1}, "model": "tfc:item/metal/shield/model/red_steel_blocking"}
 	],
 	"display": {
 		"thirdperson_righthand": {
