@@ -1,12 +1,16 @@
 {
-    "parent": "minecraft:item/handheld",
-    "loader": "forge:separate_transforms",
-    "base": {
-        "parent": "tfc:item/metal/shield/model/red_steel"
-    },
-    "perspectives": {
-        "gui": {
-            "parent": "tfc:item/metal/shield/textures/red_steel"
+    "overrides": [
+        {
+            "predicate": {
+                "blocking": 0
+            },
+            "model": "tfc:item/metal/shield/red_steel_unblocking"
+        },
+        {
+            "predicate": {
+                "blocking": 1
+            },
+            "model": "tfc:item/metal/shield/red_steel_blocking"
         }
-    }
+    ]
 }

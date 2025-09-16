@@ -1,20 +1,16 @@
 {
-    "parent": "minecraft:item/handheld",
-    "loader": "forge:separate_transforms",
-    "base": {
-        "parent": "tfc:item/metal/shield/model/bismuth_bronze"
-    },
-    "perspectives": {
-        "gui": {
-            "parent": "tfc:item/metal/shield/textures/bismuth_bronze"
-        }
-    },
     "overrides": [
+        {
+            "predicate": {
+                "blocking": 0
+            },
+            "model": "tfc:item/metal/shield/bismuth_bronze_unblocking"
+        },
         {
             "predicate": {
                 "blocking": 1
             },
-            "model": "tfc:item/metal/shield/model/bismuth_bronze_blocking"
+            "model": "tfc:item/metal/shield/bismuth_bronze_blocking"
         }
     ]
 }
