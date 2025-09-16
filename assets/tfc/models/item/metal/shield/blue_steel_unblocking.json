@@ -2,7 +2,7 @@
     "parent": "minecraft:item/handheld",
     "loader": "forge:separate_transforms",
     "base": {
-        "parent": "tfc:item/metal/shield/model/blue_steel_blocking"
+        "parent": "tfc:item/metal/shield/model/blue_steel"
     },
     "perspectives": {
         "gui": {
