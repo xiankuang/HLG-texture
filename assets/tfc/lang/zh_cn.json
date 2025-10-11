@@ -271,7 +271,11 @@
     "fluid.tfc.metal.high_carbon_red_steel": "熔融高碳精金",
     "item.tfc.bucket.metal.high_carbon_red_steel": "熔融高碳精金桶",
     "block.tfc.cauldron.metal.high_carbon_red_steel": "装有熔融高碳精金的炼药锅",
-    "tfc.advancements.story.red_steel.description": "获得精金锭"
+    "tfc.advancements.story.red_steel.description": "获得精金锭",
+    "block.tfc.white_kaolin_clay.prospected": "白高岭土",
+    "block.tfc.pink_kaolin_clay.prospected": "粉高岭土",
+    "block.tfc.red_kaolin_clay.prospected": "红高岭土",
+    "block.tfc.kaolin_clay_grass.prospected": "高岭土"
 
 
 
